@@ -15,19 +15,23 @@ delegated.
 1. Define the question and mode: bounded engineering optimization, controlled
    hypothesis test, exploratory evidence gathering, or potential publishable
    claim.
-2. Establish why an answer is valuable. Use `literature-review` to ground
-   state-of-the-art or novelty claims.
+2. Establish why an answer is valuable. Use `scientific-brainstorming` for
+   broad direction-finding and `literature-review` to ground state-of-the-art
+   or novelty claims.
 3. State hypotheses, baselines, controls, metrics, confounders, failure
    conditions, and stopping criteria before decisive experiments.
-4. Use `research` for sourced evidence, `test-hypothesis` for controlled
-   comparisons, and `scientific-critical-thinking` when assessing evidence or
-   conclusions.
+4. Use `research` or `research-lookup` for sourced evidence,
+   `exploratory-data-analysis` before treating patterns as hypotheses,
+   `hypothesis-generation` for competing explanations, `test-hypothesis` for
+   controlled comparisons, `statistical-analysis` for quantitative inference,
+   and `scientific-critical-thinking` when assessing evidence or conclusions.
 5. Validate that implemented experiments match the intended intervention
    before interpreting measurements.
 6. Analyze alternatives, negative results, sensitivity, and whether a metric
    change answers the actual question.
 7. Separate observed evidence, interpretation, uncertainty, and recommendation
-   in the deliverable.
+   in the deliverable. Use `scientific-writing`, `scientific-visualization`,
+   or `scientific-schematics` only when the output needs them.
 
 ## Judgment Gates
 
