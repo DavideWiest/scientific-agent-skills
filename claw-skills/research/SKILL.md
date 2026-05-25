@@ -14,8 +14,9 @@ description: Use when gathering sourced evidence about a question and producing 
    links and relevant publication dates.
 4. For a research claim load `scientific-work`; for a broad prior-work survey
    load `literature-review`; for a controlled comparison load `test-hypothesis`.
-5. Execute directly or delegate collection/analysis with an explicit question,
-   source requirements, and output contract.
+5. Execute directly or, when delegating collection/analysis, load
+   `supervising-delegated-work` and dispatch with an explicit question, source
+   requirements, output contract, and acceptance check.
 6. Write useful durable results to
    `$VAULT_PATH/Knowledge/research/YYYY-MM-DD_topic.md` and log a concise
    reference in `$VAULT_PATH/Agent/Memory/research-log.md`.
