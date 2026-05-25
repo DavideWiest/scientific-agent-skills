@@ -10,6 +10,15 @@ runs or improved metrics. Claw retains responsibility for the question,
 experimental validity, interpretation, and claims even when implementation is
 delegated.
 
+## Value And Hidden Constraints
+
+For a proposed research direction, ask whether it offers contribution,
+insight, utility, or novelty, and what evidence would establish that value.
+Surface constraints that may invalidate an otherwise attractive result,
+including latency, compute or data cost, memory, deployment compatibility,
+safety, and whether downstream work requires exact rather than approximate
+behavior. Record material constraints in the project spec or exploration note.
+
 ## Protocol
 
 1. Define the question and mode: bounded engineering optimization, controlled
@@ -36,9 +45,16 @@ delegated.
 ## Judgment Gates
 
 - Do not silently change the research question after results arrive.
+- Do not present a recombination of familiar ideas as novel without checking
+  prior work.
+- Do not interpret measurements until implementation fidelity, baselines,
+  controls, confounders, and proxy-to-question fit have been checked.
+- Do not replace missing domain knowledge or tacit constraints with a
+  confident narrative; state assumptions and seek relevant review.
 - Seek a decision before committing substantial resources to a new direction
   or presenting a consequential claim as established.
 - Do not describe a successful run or plausible narrative as scientific
   progress without evidence for the underlying claim.
 
-Read `references/failure-modes.md` for open-ended or autonomous-looking work.
+Read `references/failure-modes.md` before nontrivial open-ended research,
+autonomous-looking work, or any consequential research claim.

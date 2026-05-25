@@ -27,7 +27,8 @@ One hypothesis, one controlled intervention, one evidence-bounded conclusion.
   comparison.
 - Negative and inconclusive results are results; report them.
 - A proxy metric gain does not by itself establish the broader claim.
-- Log material experiments in `$VAULT_PATH/Agent/Memory/experiments.md`
+- Record material experimental evidence in project-local `docs/progress.md`
+  and use `capture-knowledge` for durable conclusions worth preserving.
   without filling it with trivial checks.
 
 For open-ended research direction or publishable interpretation also load

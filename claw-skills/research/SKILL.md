@@ -7,19 +7,17 @@ description: Use when gathering sourced evidence about a question and producing 
 
 ## Workflow
 
-1. Read `$VAULT_PATH/Agent/Task Skills/research.md` when it exists.
-2. Define the question, scope (`quick` or `deep`), decision it informs, and
+1. Define the question, scope (`quick` or `deep`), decision it informs, and
    what evidence could change the conclusion.
-3. Prefer primary sources for factual or technical claims; record external
+2. Prefer primary sources for factual or technical claims; record external
    links and relevant publication dates.
-4. For a research claim load `scientific-work`; for a broad prior-work survey
+3. For a research claim load `scientific-work`; for a broad prior-work survey
    load `literature-review`; for a controlled comparison load `test-hypothesis`.
-5. Execute directly or, when delegating collection/analysis, load
+4. Execute directly or, when delegating collection/analysis, load
    `supervising-delegated-work` and dispatch with an explicit question, source
    requirements, output contract, and acceptance check.
-6. Write useful durable results to
-   `$VAULT_PATH/Knowledge/research/YYYY-MM-DD_topic.md` and log a concise
-   reference in `$VAULT_PATH/Agent/Memory/research-log.md`.
+5. For durable results, use `capture-knowledge` to write or update a linked
+   note under `$VAULT_PATH/Knowledge/research/`.
 
 ## Output
 
