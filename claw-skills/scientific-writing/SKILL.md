@@ -32,7 +32,7 @@ papers, this incorporates Jakob Foerster's *How to ML Paper - A Brief Guide*.
    reporting requirements.
 6. Use `scientific-critical-thinking` before finalizing consequential claims.
 7. Store project manuscripts and rendered/exported outputs under
-   `<project-dir>/docs/artifacts/`.
+   `<project-dir>/docs/<task-arc>/artifacts/`.
 
 ## ML Paper Structure
 

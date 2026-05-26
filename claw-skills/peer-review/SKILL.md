@@ -52,7 +52,8 @@ ML Review - A Brief Guide* and defers to the applicable venue policy.
 
 ## Required Review Document
 
-Write the review to `<project-dir>/docs/artifacts/<paper-name>-review.md`.
+Write the review to
+`<project-dir>/docs/<task-arc>/artifacts/<paper-name>-review.md`.
 Keep two levels distinct:
 
 1. **Abstract-level assessment**: claimed question and contribution, paper

@@ -17,7 +17,7 @@ data communication.
    misleading aggregation, axes, or color scales.
 3. Use available project plotting libraries and preserve the source code or
    notebook that produced durable figures; store project figure outputs under
-   `<project-dir>/docs/artifacts/`.
+   `<project-dir>/docs/<task-arc>/artifacts/`.
 4. Label axes/units, legends, sample counts, interval/error meanings, and
    preprocessing or exclusions needed for interpretation.
 5. Review for accessibility, reproducibility, and whether visual emphasis
