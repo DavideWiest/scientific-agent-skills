@@ -29,7 +29,7 @@ behavior. Record material constraints in the project spec or exploration note.
    or novelty claims.
 3. State hypotheses, baselines, controls, metrics, confounders, failure
    conditions, and stopping criteria before decisive experiments.
-4. Use `research` or `research-lookup` for sourced evidence,
+4. Use `entrypoint` or `research-lookup` for sourced evidence,
    `exploratory-data-analysis` before treating patterns as hypotheses,
    `hypothesis-generation` for competing explanations, `test-hypothesis` for
    controlled comparisons, `statistical-analysis` for quantitative inference,
@@ -59,5 +59,22 @@ behavior. Record material constraints in the project spec or exploration note.
 - Do not describe a successful run or plausible narrative as scientific
   progress without evidence for the underlying claim.
 
-Read `references/failure-modes.md` before nontrivial open-ended research,
-autonomous-looking work, or any consequential research claim.
+## Agent Failure Modes
+
+For nontrivial open-ended work or any consequential claim, actively guard
+against the six recurring failure modes reported by Trehan and Chopra from
+four autonomous ML-research attempts, three of which failed during
+implementation or evaluation:
+
+| Failure Mode | Required Guardrail |
+| --- | --- |
+| Bias toward training-data defaults | Verify current libraries, datasets, protocols, and stated constraints instead of silently substituting familiar defaults. |
+| Implementation drift under execution pressure | Check implementation fidelity before interpreting output; do not accept a simpler running method as the proposed intervention. |
+| Memory and context degradation over long tasks | Preserve the agreed specification, configurations, decisions, and accepted results in project files; re-read them before continuation or writing. |
+| Overexcitement that declares success despite obvious failures | Inspect raw outputs, failed runs, degeneracies, and baselines before accepting summary narratives or claiming contribution. |
+| Insufficient domain intelligence | Identify tacit assumptions and obtain appropriate domain review before selecting consequential baselines or interpreting results. |
+| Weak scientific taste in experimental design | Test whether the question matters and the design can answer it; reject trivial, infeasible, underpowered, or statistically invalid experiments. |
+
+Source: Dhruv Trehan and Paras Chopra, [*Why LLMs Aren't Scientists Yet:
+Lessons from Four Autonomous Research Attempts*](https://arxiv.org/abs/2601.03315),
+arXiv:2601.03315, January 6, 2026.

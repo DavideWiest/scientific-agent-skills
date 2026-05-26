@@ -12,7 +12,7 @@ evidence-first workflow.
 
 1. Define the observation or gap, its scope, and what is already known versus
    uncertain.
-2. Use `literature-review` or `research` to find existing explanations,
+2. Use `literature-review` or `entrypoint` to find existing explanations,
    contradictory evidence, and prior tests.
 3. Generate multiple plausible competing hypotheses, including a conservative
    or null explanation when appropriate.

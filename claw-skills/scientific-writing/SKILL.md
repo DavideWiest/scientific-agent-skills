@@ -12,7 +12,7 @@ traceability, and clarity take priority over ornamental completeness.
 
 1. Establish document type, intended audience or venue, evidence available,
    reporting standard if applicable, and citation style.
-2. Ground factual and novelty claims through `research` or `literature-review`;
+2. Ground factual and novelty claims through `entrypoint` or `literature-review`;
    do not invent citations or fill missing evidence with confident prose.
 3. Structure the document appropriately, commonly: question/motivation,
    methods, results, interpretation, limitations, and references.

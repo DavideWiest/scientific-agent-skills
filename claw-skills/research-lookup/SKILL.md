@@ -24,7 +24,7 @@ credentials actually available in the current Claw environment.
 ## Routing
 
 - Use `literature-review` for systematic coverage or state-of-the-art claims.
-- Use `research` for a durable synthesized deliverable.
+- Use `entrypoint` for a sourced synthesized deliverable.
 - Do not assume availability of upstream `parallel-cli`, Perplexity,
   OpenRouter, or other paid/API backends; use one only when it is configured
   and appropriate for the user's approved workflow.
