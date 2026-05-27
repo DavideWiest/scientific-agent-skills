@@ -1,0 +1,109 @@
+---
+name: research-taste
+description: Research judgement, selection and qualtiy.
+---
+# Research Taste: Judgement, Selection, and Quality
+
+## What is Research?
+
+Research is anything but homework. Finding a good problem to study is part of research. Research is about pushing the limits: dismiss the problem if the solution is not interesting. Research is a game for which you get to set the rules, but it cannot be a trivial one!
+
+What is the difference between a homework problem and a research problem? Probably no [difference], except for your [ownership of it].
+
+## What is Engineering Research?
+
+Engineering is about optimization, but engineering research is not! Research is to find the limits and better ways for [optimization].
+
+Engineering is about invention, but engineering research is not! Research is to explain why an invention [works].
+
+Engineering research is neither science nor empirical science. It is more like applied mathematics and applied [theory].
+
+A good engineer needs not to be a good researcher; a good researcher needs not to be a good [engineer].
+
+Research is all about generalizability, whereas engineering is about instantiation and [application].
+
+## What is Good Research?
+
+A good research result has:
+- **Novelty** (better if you were not able to publish it at first)
+- **Simplicity** (better if your advisor refused to grant you a degree)
+- **Universality** (better if others found it trivial at first sight)
+
+You recognize a great research result if it keeps you up all night, feeling like your first [love].
+
+Enlightening research results are like love at first sight, keep you up all night! (新发现如初恋, 让你彻夜难眠!)
+
+## How to Develop Good Taste
+
+Engineering science is neither science nor empirical science! It is more like applied mathematics and applied [physics].
+
+Research is all about generalizability, whereas engineering is about instantiation and [specialization].
+
+## Warning Signs of Bogus Research
+
+1. Prove by successful instances
+2. Compound and conquer
+3. Results too complicated to reproduce
+4. Reinvent the wheel without proper acknowledgment
+5. Tackle ill-posed problems directly
+6. Solicit popularity over expert opinions
+7. Occam's razor reversed
+8. Monkey collects corn cobs
+
+## Protect Your Reputation and Scholarship
+
+**Green zone (Good practice):**
+- Adequate references
+- Protect copyright
+- Retract false results
+- Share ideas & credits
+- Fair competition
+
+**Gray zone (Questionable practice):**
+- Selective reference (蒙混评审)
+- Double submission (一稿多投)
+- Cherry-pick results (筛选结果)
+- Borrow ideas steal credits (打时间差)
+- Unfair comparison (不公平对比)
+
+**Red zone (Unacceptable):**
+- Plagiarism
+- Self plagiarism
+- Fabricating results
+- Steal ideas
+- Sabotage others
+
+The only person you could cheat is yourself! (自欺不欺人!)
+
+## The Right Attitudes
+
+Be both confident and humble (about your own work)
+Be both critical and appreciative (about other's work)
+Be both ambitious and realistic (about your research plan)
+Be both aggressive and generous (about credits)
+
+Be proactive and willing to take a chance!
+The only way you can improve yourself is to learn things that you are the most afraid of!
+
+## Prepare Yourself Psychologically
+
+1. Is being a top student enough? Neither necessary nor sufficient...
+2. Do you know your intellectual or mental limit? Ready for failures?
+3. Are you extremely motivated? All you need is passion...
+
+Research is not a job, and is more like a hobby!
+
+## How Does Doing Research Feel Like?
+
+1. An endless cycle between excitement and depression...
+2. An endless cycle between sense of success and failure...
+3. An endless cycle between over-confidence and self-doubt...
+
+Research needs faith in there are always interesting new things for you to discover and by doing so you can make the world a better place!
+
+## Mentality: The Right Attitudes
+
+Be both confident and humble (about your own work)
+Be both critical and appreciative (about other's work)
+Be both ambitious and realistic (about your research plan)
+Be both aggressive and generous (about credits)
