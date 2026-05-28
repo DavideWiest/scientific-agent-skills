@@ -41,14 +41,29 @@ Research is all about generalizability, whereas engineering is about instantiati
 
 ## Warning Signs of Bogus Research
 
-1. Prove by successful instances
-2. Compound and conquer
-3. Results too complicated to reproduce
-4. Reinvent the wheel without proper acknowledgment
-5. Tackle ill-posed problems directly
-6. Solicit popularity over expert opinions
-7. Occam's razor reversed
-8. Monkey collects corn cobs
+1. Prove by successful instances  
+   Showing many cases where a method works is not the same as proving that the underlying problem has been solved. Successful examples can be useful evidence, but they do not explain why the method works, when it fails, or whether it reduces the real difficulty of the problem.
+
+2. Compound and conquer  
+   This means gluing many partial solutions into a large system and claiming progress because the whole pipeline works on some tasks. The danger is that the assumptions of the parts may not be compatible, and the resulting system may be too complex to analyze clearly.
+
+3. Results too complicated to reproduce  
+   If a result depends on too much code, hidden data, undocumented tuning, or unavailable infrastructure, others cannot independently verify it. In science, a result that cannot be reproduced remains weak no matter how impressive it looks.
+
+4. Reinvent the wheel without proper acknowledgment  
+   A researcher may rediscover an old idea, rename it, and present it as novel. Reusing old ideas is fine, but the contribution must be honestly positioned relative to prior work.
+
+5. Tackle ill-posed problems directly  
+   Real-world problems are often messy, with conflicting goals and unclear definitions. Good research usually extracts a precise subproblem first; bogus research often attacks the vague full problem directly and hides the lack of rigor behind empirical success.
+
+6. Solicit popularity over expert opinions  
+   Citations, demos, publicity, or broad appeal can make work look important even when experts see little depth. Popularity may reflect accessibility or hype rather than originality, correctness, or long-term scientific value.
+
+7. Occam's razor reversed  
+   Instead of preferring the simplest adequate explanation or model, the researcher keeps adding parameters, modules, and heuristics until the results look good. This can turn evaluation data into part of the tuning process and make the claimed insight meaningless.
+
+8. Monkey collects corn cobs  
+   This refers to constantly moving from one partially solved problem to the next without finishing the basic ones. Like a monkey dropping old corn cobs while grabbing new ones, the apparent activity is high but the accumulated progress stays limited.
 
 ## Protect Your Reputation and Scholarship
 
