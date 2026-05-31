@@ -30,7 +30,6 @@ The curated layer:
 | `literature-review` | Concise adaptation of the upstream skill, independent of optional search backends. |
 | `hypothesis-generation` | Competing hypotheses and discriminating experiments, without mandatory generated assets. |
 | `peer-review` | Formal manuscript/grant review with additional computational/ML checks. |
-| `scientific-writing` | Evidence-traceable research writing without figure quotas. |
 | `research-lookup` | Source retrieval routed through tools available in the current environment. |
 | `scientific-schematics` and `scientific-visualization` | Optional, scientifically honest visual communication. |
 | `scientific-brainstorming` | Structured exploration that must transition into evidence gathering or testing. |
@@ -38,6 +37,8 @@ The curated layer:
 | `scientific-work` | Integration protocol for scientific planning, execution, and interpretation. |
 | `research` | Local durable evidence-collection workflow moved from the Claw core. |
 | `test-hypothesis` | Local controlled-experiment workflow moved from the Claw core and strengthened for claim validity. |
+
+Scientific writing now lives in the owned writing suite as `write-scientific`.
 
 Reference:
 

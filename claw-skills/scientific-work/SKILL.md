@@ -39,7 +39,7 @@ behavior. Record material constraints in the project spec or exploration note.
 6. Analyze alternatives, negative results, sensitivity, and whether a metric
    change answers the actual question.
 7. Separate observed evidence, interpretation, uncertainty, and recommendation
-   in the deliverable. Use `scientific-writing`, `scientific-visualization`,
+   in the deliverable. Use `write-scientific`, `scientific-visualization`,
    or `scientific-schematics` only when the output needs them.
 8. Keep project reports, figures, exports, and agent-produced artifacts under
    the selected task arc's `docs/<task-arc>/artifacts/`; use the vault for
