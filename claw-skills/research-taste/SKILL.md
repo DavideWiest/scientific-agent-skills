@@ -38,6 +38,24 @@ description: Research judgement, selection and qualtiy.
    Scientific integrity requires showing the evidence that could make you look wrong.  
    A paper that only presents supporting evidence is not necessarily false, but it is not yet trustworthy.
 
+## Olah Research Taste Exercises
+
+- List research ideas and ask a respected mentor to rate them; study cases
+  where you disagree after reflection.
+- When someone publishes an idea you had, compare the result to your
+  expectations and update your taste.
+- Interview researchers about why they work on their problems, how they pick
+  them, and what larger research picture they are pursuing.
+- Critique your own community's taste: where might it be wrong, and what do
+  adjacent research schools see differently?
+- Ask the anti-Hamming question: what are the most interesting problems in the
+  field, and why are you not working on them?
+- Before spending a month or more, write a short project proposal explaining
+  why the question matters, why the answer would be valuable, what you expect,
+  and what early evidence supports that expectation.
+- Imagine another group published the paper you are considering; would you be
+  excited to read it?
+
 ## What is Research?
 
 Research is anything but homework. Finding a good problem to study is part of research. Research is about pushing the limits: dismiss the problem if the solution is not interesting. Research is a game for which you get to set the rules, but it cannot be a trivial one!
@@ -64,8 +82,6 @@ A good research result has:
 - **Universality** (better if others found it trivial at first sight)
 
 You recognize a great research result if it keeps you up all night, feeling like your first [love].
-
-Enlightening research results are like love at first sight, keep you up all night! (新发现如初恋, 让你彻夜难眠!)
 
 ## How to Develop Good Taste
 
@@ -96,9 +112,6 @@ Research is all about generalizability, whereas engineering is about instantiati
 7. Occam's razor reversed  
    Instead of preferring the simplest adequate explanation or model, the researcher keeps adding parameters, modules, and heuristics until the results look good. This can turn evaluation data into part of the tuning process and make the claimed insight meaningless.
 
-8. Monkey collects corn cobs  
-   This refers to constantly moving from one partially solved problem to the next without finishing the basic ones. Like a monkey dropping old corn cobs while grabbing new ones, the apparent activity is high but the accumulated progress stays limited.
-
 ## Protect Your Reputation and Scholarship
 
 **Green zone (Good practice):**
@@ -109,11 +122,11 @@ Research is all about generalizability, whereas engineering is about instantiati
 - Fair competition
 
 **Gray zone (Questionable practice):**
-- Selective reference (蒙混评审)
-- Double submission (一稿多投)
-- Cherry-pick results (筛选结果)
-- Borrow ideas steal credits (打时间差)
-- Unfair comparison (不公平对比)
+- Selective reference
+- Double submission
+- Cherry-pick results
+- Borrow ideas steal credits
+- Unfair comparison
 
 **Red zone (Unacceptable):**
 - Plagiarism
@@ -122,7 +135,7 @@ Research is all about generalizability, whereas engineering is about instantiati
 - Steal ideas
 - Sabotage others
 
-The only person you could cheat is yourself! (自欺不欺人!)
+The only person you could cheat is yourself!
 
 ## The Right Attitudes
 

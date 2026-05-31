@@ -47,18 +47,28 @@ description: Important information about being a researcher.
    "Luck favors the prepared mind."  
    Keep a live list of 10-20 important problems, so that when a new method, dataset, theorem, or hardware shift appears, you can connect it quickly to something that matters.
 
+## Olah Research Taste Exercises For Trajectory
+
+- Step back every 1-2 years and list the other research directions you would
+  pursue if starting from scratch.
+- Build research intimacy before choosing a long-term direction: help with a
+  project or do a short project in the area.
+- Check whether your environment is aligned with your real interests; otherwise
+  your ideas may optimize for compromise rather than quality.
+- Interview researchers about their big-picture goals; those goals are often
+  more informative than the published papers alone.
+- Write short project proposals for month-scale bets and research statements
+  for longer bets; use them to get feedback on motivations and goals.
+
 ## Reasons: Know Your Purpose
 
 Research is not a profession, it is first a hobby!
 
-一等人工作即爱好，二等人工作为爱好，三等人工作无爱好，四等人无工作爱好。
-末等人：不爱好研究的研究员!
-
 **Bad reasons:**
-- Natural choice for a good student (Tsinghua -&gt; Berkeley)?
-- A respectful job to earn a living (Berkeley -&gt; UIUC)?
-- To make money (UIUC -&gt; MSRA)?
-- To make a name (MSRA -&gt; ShanghaiTech)?
+- Natural choice for a good student?
+- A respectful job to earn a living?
+- To make money?
+- To make a name?
 
 **Good reasons:**
 - Have passion for deeper and more knowledge (study/research)
@@ -69,9 +79,7 @@ Research is not a profession, it is first a hobby!
 
 - Competing with the smartest people in the whole world
 - High chance of failure and slim chance of success
-- Not so flattering public image (blame Hollywood)
 - Unlimited and irregular working hours
-- Limited if not the worst salary (except China has the worst but unlimited salary)
 
 It is only for the psychologically strong:
 - An endless cycle between excitement and depression...
@@ -91,14 +99,13 @@ Knowing what to do is more important than knowing how!
 
 ## Measure of Success is All About People!
 
-- Who is your role model (模范标准)
-- Who is in your field (同行水平)
-- Who you work with (同事素质)
-- Who work or worked for you (学生、下属成就)
-- Who you have influenced (粉丝、用户、大众影响)
+- Who is your role model
+- Who is in your field
+- Who you work with
+- Who work or worked for you
+- Who you have influenced
 
 Life is successful only if you can earn respect from people you respect, not envy from people you [envy].
-事业的成功在于从你所尊敬的人那里赢得尊敬，而不是从你所嫉妒的人那里获取嫉妒。
 
 ## Measure: For Success in Academia
 
@@ -111,7 +118,7 @@ Life is successful only if you can earn respect from people you respect, not env
 - Most Influential Research Results (Top papers -- the older you are, the less!)
 - Education (Students, new courses, new books)
 
-The best research results are knowledge worth passing on to future generations! (文章千古事!)
+The best research results are knowledge worth passing on to future generations!
 
 ## Measure: For Success in Industrial Research Lab
 
@@ -124,7 +131,7 @@ The best research results are knowledge worth passing on to future generations! 
 - Contributions to existing products
 - Growth (new inventions, new products, new businesses, new teams)
 
-The best contributions are technologies that help the company or the entire industry to grow! (发展才是硬道理!)
+The best contributions are technologies that help the company or the entire industry to grow!
 
 ## Measure: Of Peer Respect (Approximate Lifetime Expectations)
 
@@ -152,8 +159,6 @@ Number does not matter, quality does!
 Which field and which place you can maximize your value?
 Whether you can improve yourself and learn new things?
 
-[Timeline example: Tsinghua Automation Mathematics (1990) -&gt; Berkeley Robotics Group (1995) -&gt; Champaign Control Group (2000) -&gt; Champaign Tenured (2005) -&gt; Microsoft Beijing Vision Group (2010) -&gt; ShanghaiTech China Education on the rise? (2015)]
-
 ## Method: Be Systematic
 
 Build coherent, multi-year research programs with clear themes. Example progression:
@@ -168,5 +173,3 @@ Businessmen value numbers; politicians value credits; academians value [reputati
 Reward good behaviors and good [processes].
 The last thing to manage talent is based only on results!
 All top talents are free [spirits].
-
-士为知己者死，才为用人者生。
