@@ -15,6 +15,9 @@ description: Use when creating, polishing, or reviewing plots and visual encodin
   available.
 - Use vector output (`.pdf` or `.svg`) for durable figures and a `.png` preview
   when useful.
+- For quick numeric CSV plots, use `csv-plot.py` when its simple x/y interface
+  fits; for paper-like Matplotlib styling, use
+  `~/main/claw_extensions/claw-reusability-assets/plotting/paper.mplstyle`.
 - Preserve the code or notebook that generated the plot next to the artifact.
 - Inspect the rendered figure before accepting it: labels, legend, cropping,
   text size, colors, and whether the visual emphasis matches the evidence.
