@@ -5,7 +5,7 @@ description: Use when turning observations or literature gaps into competing, fa
 
 # Hypothesis Generation
 
-Adapted from K-Dense's upstream `hypothesis-generation` skill for Claw's
+Adapted from K-Dense's upstream `hypothesis-generation` skill for Harness's
 evidence-first workflow.
 
 ## Workflow

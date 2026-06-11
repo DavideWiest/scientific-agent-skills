@@ -6,7 +6,7 @@ description: Use when planning, executing, reviewing, or interpreting scientific
 # Scientific Work
 
 Scientific automation should produce reliable insight, not merely completed
-runs or improved metrics. Claw retains responsibility for the question,
+runs or improved metrics. Harness retains responsibility for the question,
 experimental validity, interpretation, and claims even when implementation is
 delegated.
 

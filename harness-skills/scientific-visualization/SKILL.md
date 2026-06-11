@@ -17,7 +17,7 @@ description: Use when creating, polishing, or reviewing plots and visual encodin
   when useful.
 - For quick numeric CSV plots, use `csv-plot.py` when its simple x/y interface
   fits; for paper-like Matplotlib styling, use
-  `~/main/claw_extensions/claw-reusability-assets/plotting/paper.mplstyle`.
+  `~/main/harness_extensions/harness-reusability-assets/plotting/paper.mplstyle`.
 - Preserve the code or notebook that generated the plot next to the artifact.
 - Inspect the rendered figure before accepting it: labels, legend, cropping,
   text size, colors, and whether the visual emphasis matches the evidence.

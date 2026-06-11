@@ -6,7 +6,7 @@ description: Use when evaluating scientific evidence, experimental design, valid
 # Scientific Critical Thinking
 
 Adapted from K-Dense's upstream `scientific-critical-thinking` skill for
-Claw's focused research workflow.
+Harness's focused research workflow.
 
 ## Workflow
 
