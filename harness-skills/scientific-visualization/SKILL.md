@@ -17,7 +17,13 @@ description: Use when creating, polishing, or reviewing plots and visual encodin
   when useful.
 - For quick numeric CSV plots, use `csv-plot.py` when its simple x/y interface
   fits; for paper-like Matplotlib styling, use
-  `~/main/harness_extensions/harness-reusability-assets/plotting/paper.mplstyle`.
+  `~/main/harness/harness-reusability-assets/plotting/paper.mplstyle`.
+- Use a table for simple data. For richer data, prefer line plots, more complex
+  plots, and information-dense views such as a metric over a two-dimensional
+  plane.
+- When a scatterplot represents a relationship that can be estimated
+  responsibly, try a smooth fitted curve while retaining the observations and
+  avoiding fabricated structure.
 - Preserve the code or notebook that generated the plot next to the artifact.
 - Inspect the rendered figure before accepting it: labels, legend, cropping,
   text size, colors, and whether the visual emphasis matches the evidence.
@@ -35,3 +41,7 @@ description: Use when creating, polishing, or reviewing plots and visual encodin
 6. Use `scientific-critical-thinking` when a plot supports a substantive
    claim, and `scientific-schematics` for conceptual rather than measured
    content.
+7. Do not use lollipop plots or heatmaps. If the information is simple enough
+   for a heatmap, prefer a table when it is worth displaying at all.
+8. Omit plot titles unless the figure is surely internal; put the necessary
+   context in the surrounding document or caption. Capitalize labels.
