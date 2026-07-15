@@ -15,9 +15,10 @@ description: Use when creating, polishing, or reviewing plots and visual encodin
   available.
 - Use vector output (`.pdf` or `.svg`) for durable figures and a `.png` preview
   when useful.
-- For quick numeric CSV plots, use `csv-plot.py` when its simple x/y interface
-  fits; for paper-like Matplotlib styling, use
-  `~/main/harness/harness-reusability-assets/plotting/paper.mplstyle`.
+- For quick numeric CSV plots, use this skill's bundled
+  `scripts/csv-plot.py` when its simple x/y interface fits; its default
+  paper-like Matplotlib style is `assets/paper.mplstyle`. Resolve both paths
+  from the directory containing this `SKILL.md`.
 - Use a table for simple data. For richer data, prefer line plots, more complex
   plots, and information-dense views such as a metric over a two-dimensional
   plane.
